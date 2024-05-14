@@ -6,10 +6,6 @@ const Header = (props) => {
   )
 }
 
-
-
-
-
 const Part = (props) => {
   return (
   <p>
